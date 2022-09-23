@@ -1,0 +1,127 @@
+- week: "01"
+  dates:
+    Oct 17: no class
+    Oct 19: no class
+    Oct 21: no class
+- week: "02"
+  dates:
+    Oct 24:
+      topic: introduction / administrivia
+    Oct 26:
+      topic: recap
+    Oct 28:
+      topic: Python intro
+- week: "03"
+  dates:
+    Oct 31:
+      topic: analysis of algorithms
+    Nov 02:
+      topic: common algorithmic patterns
+    Nov 04:
+      topic: lab
+- week: "04"
+  dates:
+    Nov 07:
+      topic: sorting
+    Nov 09:
+      topic: sorting
+    Nov 11:
+      topic: lab
+- week: "05"
+  dates:
+    Nov 14:
+      topic: string matching
+    Nov 16:
+      topic: string matching
+    Nov 18:
+      topic: lab
+- week: "06"
+  dates:
+    Nov 21:
+      topic: "graphs: intro"
+    Nov 23:
+      topic: "graphs: traversals"
+    Nov 25:
+      topic: lab
+- week: "07"
+  dates:
+    Nov 28:
+      topic: "directed graphs"
+    Nov 30:
+      topic: "shortest paths"
+    Dec 02:
+      topic: TBA
+- week: "08"
+  dates:
+    Dec 05:
+      topic: "graphs: MST"
+    Dec 07:
+      topic: maps / hashes
+    Dec 09:
+      topic: lab
+- week: "09"
+  dates:
+    Dec 12:
+      topic: edit distance
+    Dec 14:
+      topic: tries
+    Dec 16:
+      topic: lab
+- week: "10"
+  dates:
+    Dec 19:
+      topic: FSA intro
+    Dec 21:
+      topic: FSA determinization / minimization
+    Dec 23:
+      topic: TBA
+- week: ""
+  dates:
+    Dec 26: "Sem. break"
+    Dec 28: "Sem. break"
+    Dec 30: "Sem. break"
+- week: ""
+  dates:
+    Jan 02: "Sem. break"
+    Jan 04: "Sem. break"
+    Jan 06: "Sem. break"
+- week: "11"
+  dates:
+    Jan 09:
+      topic: recap
+    Jan 11:
+      topic: FSA and regular languages
+    Jan 13:
+      topic: lab
+- week: "12"
+  dates:
+    Jan 16:
+      topic: FSTs
+    Jan 18:
+      topic: "CFG Parsing: Intro"
+    Jan 20:
+      topic: lab
+- week: "13"
+  dates:
+    Jan 23:
+      topic: "Parsing: CKY / Earey"
+    Jan 25:
+      topic: "Parsing: dependencies"
+    Jan 27:
+      topic: lab
+- week: "14"
+  dates:
+    Jan 30:
+      topic: "Parsing: dependencies"
+    Feb 01:
+      topic: summary
+    Feb 03:
+      topic: lab
+- week: "15"
+  dates:
+    Feb 06:
+      topic: exam
+    Feb 08:
+      topic: exam/project discussion
+    Feb 10:
+      topic: lab

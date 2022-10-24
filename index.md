@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-**The information in this course page is likely to change.**
-
-In particular, there are still uncertainties about the mode of lectures.
-
 ## Introduction
 
 This is the web page of the course

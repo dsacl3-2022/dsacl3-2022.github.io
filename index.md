@@ -48,9 +48,9 @@ before the beginning of the course.
 
 ### Practical information
 
-| **Lectures**      | Mon 14:00-16:00, room 0.02 |
-|                   | Wed 14:00-16:00, room 0.02 |
-| **Computer lab**  | Fri 14:00-18:00, room 0.01 |
+| **Lectures**      | Mon 14:00-16:00, room 0.01 |
+|                   | Wed 14:00-16:00, room 0.01 |
+| **Computer lab**  | Fri 14:00-18:00, room 0.02 |
 | **First Lecture** | October 24 |
 | **Lecturer**      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
 | **Tutors**        | TBA |

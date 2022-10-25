@@ -19,16 +19,6 @@ and finite state automata and related algorithms. The course is driven by
 assignments where participants implement these algorithms and data
 structures in small, but practical, applications.
 
-### Practical information
-
-| **Lectures**      | Mon 14:00-16:00, room 0.02 |
-|                   | Wed 14:00-16:00, room 0.02 |
-| **Computer lab**  | Fri 14:00-18:00, room 0.02 |
-| **First Lecture** | October 24 |
-| **Lecturer**      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
-| **Tutors**        | TBA |
-
-
 ### Goals
 
 By the end of the course you will be able to:
@@ -55,3 +45,14 @@ before the beginning of the course.
   H. Martin
   (Draft [chapters from the third edition](http://web.stanford.edu/~jurafsky/slp3/)
   are available online)
+
+### Practical information
+
+| **Lectures**      | Mon 14:00-16:00, room 0.02 |
+|                   | Wed 14:00-16:00, room 0.02 |
+| **Computer lab**  | Fri 14:00-18:00, room 0.01 |
+| **First Lecture** | October 24 |
+| **Lecturer**      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
+| **Tutors**        | TBA |
+
+

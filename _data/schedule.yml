@@ -12,6 +12,9 @@
         handout: slides/introduction-handout.pdf
     Oct 26:
       topic: recap
+      links:
+        slides: slides/recap.pdf
+        handout: slides/recap-handout.pdf
     Oct 28:
       topic: Python intro
 - week: "03"

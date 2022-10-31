@@ -21,6 +21,9 @@
   dates:
     Oct 31:
       topic: analysis of algorithms
+      links:
+        slides: slides/analysis.pdf
+        handout: slides/analysis-handout.pdf
     Nov 02:
       topic: common algorithmic patterns
     Nov 04:

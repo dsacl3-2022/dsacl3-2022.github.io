@@ -26,6 +26,9 @@
         handout: slides/analysis-handout.pdf
     Nov 02:
       topic: common algorithmic patterns
+      links:
+        slides: slides/patterns.pdf
+        handout: slides/patterns-handout.pdf
     Nov 04:
       topic: lab
 - week: "04"

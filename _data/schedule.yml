@@ -35,6 +35,9 @@
   dates:
     Nov 07:
       topic: sorting
+      links:
+        slides: slides/sorting.pdf
+        handout: slides/sorting-handout.pdf
     Nov 09:
       topic: sorting
     Nov 11:

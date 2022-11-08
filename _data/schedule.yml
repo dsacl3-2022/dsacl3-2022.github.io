@@ -17,6 +17,8 @@
         handout: slides/recap-handout.pdf
     Oct 28:
       topic: Python intro
+      links:
+        a0: a0/
 - week: "03"
   dates:
     Oct 31:
@@ -31,6 +33,8 @@
         handout: slides/patterns-handout.pdf
     Nov 04:
       topic: lab
+      links:
+        a1: a1/
 - week: "04"
   dates:
     Nov 07:
@@ -45,9 +49,9 @@
 - week: "05"
   dates:
     Nov 14:
-      topic: string matching
+      topic: trees
     Nov 16:
-      topic: string matching
+      topic: "heaps, priority queues"
     Nov 18:
       topic: lab
 - week: "06"
@@ -65,7 +69,7 @@
     Nov 30:
       topic: "shortest paths"
     Dec 02:
-      topic: TBA
+      topic: lab
 - week: "08"
   dates:
     Dec 05:
@@ -77,17 +81,16 @@
 - week: "09"
   dates:
     Dec 12:
-      topic: edit distance
+      topic: string matching
     Dec 14:
-      topic: tries
     Dec 16:
-      topic: lab
+      topic: string matching
 - week: "10"
   dates:
     Dec 19:
-      topic: FSA intro
+      topic: edit distance
     Dec 21:
-      topic: FSA determinization / minimization
+      topic: tries
     Dec 23:
       topic: TBA
 - week: ""
@@ -103,33 +106,33 @@
 - week: "11"
   dates:
     Jan 09:
-      topic: recap
+      topic: FSA intro
     Jan 11:
-      topic: FSA and regular languages
+      topic: FSA determinization / minimization
     Jan 13:
       topic: lab
 - week: "12"
   dates:
     Jan 16:
-      topic: FSTs
+      topic: FSA and regular languages
     Jan 18:
-      topic: "CFG Parsing: Intro"
+      topic: FSTs
     Jan 20:
       topic: lab
 - week: "13"
   dates:
     Jan 23:
-      topic: "Parsing: CKY / Earey"
+      topic: "CFG Parsing: Intro"
     Jan 25:
-      topic: "Parsing: dependencies"
+      topic: CKY & Earley
     Jan 27:
       topic: lab
 - week: "14"
   dates:
     Jan 30:
-      topic: "Parsing: dependencies"
+      topic: Dependency parsing
     Feb 01:
-      topic: summary
+      topic: "Parsing: dependencies"
     Feb 03:
       topic: lab
 - week: "15"

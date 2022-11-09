@@ -52,6 +52,9 @@
   dates:
     Nov 14:
       topic: trees
+      links:
+        slides: slides/trees.pdf
+        handout: slides/trees-handout.pdf
     Nov 16:
       topic: "heaps, priority queues"
     Nov 18:

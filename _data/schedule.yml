@@ -57,6 +57,9 @@
         handout: slides/trees-handout.pdf
     Nov 16:
       topic: "heaps, priority queues"
+      links:
+        slides: slides/pq-heap.pdf
+        handout: slides/pq-heap-handout.pdf
     Nov 18:
       topic: lab
 - week: "06"

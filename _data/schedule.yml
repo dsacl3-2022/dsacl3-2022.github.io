@@ -62,6 +62,8 @@
         handout: slides/pq-heap-handout.pdf
     Nov 18:
       topic: lab
+      links: 
+        a3: a3/
 - week: "06"
   dates:
     Nov 21:

@@ -68,6 +68,9 @@
   dates:
     Nov 21:
       topic: "graphs: intro"
+      links:
+        slides: slides/graphs-intro.pdf
+        handout: slides/graphs-intro-handout.pdf
     Nov 23:
       topic: "graphs: traversals"
     Nov 25:

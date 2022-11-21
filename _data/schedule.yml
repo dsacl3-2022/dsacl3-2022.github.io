@@ -73,12 +73,18 @@
         handout: slides/graphs-intro-handout.pdf
     Nov 23:
       topic: "graphs: traversals"
+      links:
+        slides: slides/graph-traversal.pdf
+        handout: slides/graph-traversal-handout.pdf
     Nov 25:
       topic: lab
 - week: "07"
   dates:
     Nov 28:
       topic: "directed graphs"
+      links:
+        slides: slides/digraphs.pdf
+        handout: slides/digraphs-handout.pdf
     Nov 30:
       topic: "shortest paths"
     Dec 02:

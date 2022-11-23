@@ -78,6 +78,8 @@
         handout: slides/graph-traversal-handout.pdf
     Nov 25:
       topic: lab
+      links: 
+        a4: a4/
 - week: "07"
   dates:
     Nov 28:

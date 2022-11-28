@@ -89,12 +89,18 @@
         handout: slides/digraphs-handout.pdf
     Nov 30:
       topic: "shortest paths"
+      links:
+        slides: slides/shortest-paths.pdf
+        handout: slides/shortest-paths-handout.pdf
     Dec 02:
       topic: lab
 - week: "08"
   dates:
     Dec 05:
       topic: "graphs: MST"
+      links:
+        slides: slides/mst.pdf
+        handout: slides/mst-handout.pdf
     Dec 07:
       topic: maps / hashes
     Dec 09:

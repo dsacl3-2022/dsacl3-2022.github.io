@@ -103,6 +103,9 @@
         handout: slides/mst-handout.pdf
     Dec 07:
       topic: maps / hashes
+      links:
+        slides: slides/hashing.pdf
+        handout: slides/hashing-handout.pdf
     Dec 09:
       topic: lab
 - week: "09"

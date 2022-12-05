@@ -114,6 +114,9 @@
   dates:
     Dec 12:
       topic: string matching
+      links:
+        slides: slides/string-matching.pdf
+        handout: slides/string-matching-handout.pdf
     Dec 14:
       topic: string matching
     Dec 16:

@@ -110,6 +110,8 @@
         handout: slides/hashing-handout.pdf
     Dec 09:
       topic: lab
+      links:
+        a6: a6/
 - week: "09"
   dates:
     Dec 12:

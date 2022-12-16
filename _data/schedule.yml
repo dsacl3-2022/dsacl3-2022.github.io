@@ -129,10 +129,15 @@
   dates:
     Dec 19:
       topic: edit distance
+      links:
+        slides: slides/edit-distance.pdf
+        handout: slides/edit-distance-handout.pdf
     Dec 21:
       topic: tries
-    Dec 23:
-      topic: TBA
+      links:
+        slides: slides/tries.pdf
+        handout: slides/tries-handout.pdf
+    Dec 23: "No lab"
 - week: ""
   dates:
     Dec 26: "Sem. break"

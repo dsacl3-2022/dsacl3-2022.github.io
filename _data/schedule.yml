@@ -152,6 +152,9 @@
   dates:
     Jan 09:
       topic: FSA intro
+      links:
+        slides: slides/fsa.pdf
+        handout: slides/fsa-handout.pdf
     Jan 11:
       topic: FSA determinization / minimization
     Jan 13:
@@ -177,14 +180,14 @@
     Jan 30:
       topic: Dependency parsing
     Feb 01:
-      topic: "Parsing: dependencies"
+      topic: Dependency parsing
     Feb 03:
       topic: lab
 - week: "15"
   dates:
     Feb 06:
-      topic: exam
+      topic: summary/project discussion
     Feb 08:
-      topic: exam/project discussion
+      topic: exam
     Feb 10:
-      topic: lab
+      topic: exam

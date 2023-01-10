@@ -8,7 +8,7 @@ title: Home
 This is the web page of the course
 *Data Structures and Algorithms for Computational Lingustics III, WS 2022-2023*
 taught at the
-[Department of Computational Linguistics](http://www.sfs.uni-tuebingen.de/ascl.html),
+[Department of Computational Linguistics](https://uni-tuebingen.de/en/134536),
 [University of Tübingen](https://uni-tuebingen.de/).
 
 

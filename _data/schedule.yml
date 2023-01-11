@@ -157,8 +157,12 @@
         handout: slides/fsa-handout.pdf
     Jan 11:
       topic: FSA determinization / minimization
-    Jan 13:
-      topic: lab
+      links:
+        slides-d: slides/fsa-determinization.pdf
+        handout-d: slides/fsa-determinization-handout.pdf
+        slides-m: slides/fsa-minimization.pdf
+        handout-m: slides/fsa-minimization-handout.pdf
+    Jan 13: "Lab canceled"
 - week: "12"
   dates:
     Jan 16:

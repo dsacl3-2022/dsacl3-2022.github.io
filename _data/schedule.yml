@@ -167,6 +167,9 @@
   dates:
     Jan 16:
       topic: FSA and regular languages
+      links:
+        slides: slides/fsa-regular.pdf
+        handout: slides/fsa-regular-handout.pdf
     Jan 18:
       topic: FSTs
     Jan 20:

@@ -172,6 +172,9 @@
         handout: slides/fsa-regular-handout.pdf
     Jan 18:
       topic: FSTs
+      links:
+        slides: slides/fst.pdf
+        handout: slides/fst-handout.pdf
     Jan 20:
       topic: lab
 - week: "13"

@@ -177,6 +177,8 @@
         handout: slides/fst-handout.pdf
     Jan 20:
       topic: lab
+      links:
+        tutorial: fst-tutorial/
 - week: "13"
   dates:
     Jan 23:

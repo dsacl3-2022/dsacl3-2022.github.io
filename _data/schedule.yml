@@ -183,8 +183,14 @@
   dates:
     Jan 23:
       topic: "CFG Parsing: Intro"
+      links:
+        slides: slides/parsing-intro.pdf
+        handout: slides/parsing-intro-handout.pdf
     Jan 25:
       topic: CKY & Earley
+      links:
+        slides-cky: slides/cky.pdf
+        handout-cky: slides/cky-handout.pdf
     Jan 27:
       topic: lab
 - week: "14"

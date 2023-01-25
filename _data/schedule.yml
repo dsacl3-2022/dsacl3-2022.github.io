@@ -191,6 +191,8 @@
       links:
         slides-cky: slides/cky.pdf
         handout-cky: slides/cky-handout.pdf
+        slides-earley: slides/earley.pdf
+        handout-earley: slides/earley-handout.pdf
     Jan 27:
       topic: lab
 - week: "14"

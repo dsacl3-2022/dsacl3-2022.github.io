@@ -199,6 +199,8 @@
   dates:
     Jan 30:
       topic: Dependency parsing
+        slides: slides/dependency-parsing.pdf
+        handout: slides/dependency-parsing-handout.pdf
     Feb 01:
       topic: Dependency parsing
     Feb 03:

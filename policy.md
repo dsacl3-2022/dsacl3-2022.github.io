@@ -25,10 +25,12 @@ The grade scale below will be used to convert the weighted scores to a final let
 | <60      | 5.0           |   F   |
 
 Besides the graded coursework,
-the course includes introductory assignments.
+the course includes weekly introductory assignments.
 Although these are not graded,
 they are a core part of the class,
 completing them is required for passing the course.
+You are required to complete all the assignments.
+
 
 ## Attendance
 
